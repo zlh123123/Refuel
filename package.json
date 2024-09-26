@@ -1,0 +1,10 @@
+{
+  "name": "NewProject",
+  "uuid": "851cffd7-abfc-4f6a-abf2-3f22de919894",
+  "creator": {
+    "version": "3.8.3"
+  },
+  "dependencies": {
+    "NewProject": "file:"
+  }
+}
